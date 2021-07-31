@@ -1,0 +1,2 @@
+print('Oleg')
+print('Hi')
